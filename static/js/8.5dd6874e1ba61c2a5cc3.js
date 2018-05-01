@@ -1,0 +1,2 @@
+webpackJsonp([8],{qXVv:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",{staticClass:"crumbs"},[t("el-breadcrumb",{attrs:{separator:"/"}},[t("el-breadcrumb-item",[t("i",{staticClass:"el-icon-setting"}),this._v(" 首页")])],1)],1),this._v(" "),t("h2",[this._v("欢迎来到求礼物后台")])])},staticRenderFns:[]},i=s("Z0/y")(null,r,!1,null,null,null);t.default=i.exports}});
+//# sourceMappingURL=8.5dd6874e1ba61c2a5cc3.js.map
